@@ -31,4 +31,8 @@ mysql-employee-audit-system/
 │   # trigger implementation, testing, screenshots, and SRE relevance
 │
 └── README.md
-    # Project overview and file structure
+|   # Project overview and file structure
+|
+|__ employee_records.csv
+|   # Raw Daatset imported from Kaggle.
+|   # Dataset link - https://www.kaggle.com/datasets/smayanj/employee-records-dataset?utm_source=chatgpt.com
