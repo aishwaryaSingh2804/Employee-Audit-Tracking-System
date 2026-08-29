@@ -35,4 +35,4 @@ mysql-employee-audit-system/
 |
 |__ employee_records.csv
 |   # Raw Daatset imported from Kaggle.
-|   # Dataset link - https://www.kaggle.com/datasets/smayanj/employee-records-dataset?utm_source=chatgpt.com
+|   # Dataset link - https://www.kaggle.com/datasets/smayanj/employee-records-dataset?
